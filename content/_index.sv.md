@@ -3,7 +3,7 @@ title = "Möbius"
 +++
 
 # Möbius
-GH
+
 Moebius är sektionsföreningen för matematiksektionen (MAT) inom [Uppsala Teknolog- och Naturvetarkår](https://utn.se/en), men alla är välkomna.
  Vi har en lokal i [hus 18](https://link.mazemap.com/ITtb4vV4) (mittenofficersvillan) på campus Ångström.
 
