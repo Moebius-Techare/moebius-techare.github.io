@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://moebius.nu/sitemap.xml
