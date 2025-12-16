@@ -57,17 +57,17 @@ If you have concerns or feedback about your studies, you can anonymously (or not
 The board sits one year at a time and are elected on the spring meeting in March or April and begin their term in the beginning of May.
 | The board                        ||                        |
 |------------------------|-|------------------------|
-| President Moebius     | Minoo Sjögren | mat-ordf@utn.se        |
-| Vice President Möbius | Frida Nordahl | mat-vice@utn.se        |
-| Master of coins Moebius         | 	Oskar Lutterbeck | mat-kassor@utn.se      |
-| Secretary Möbius     | 	Ellen Pelander | mat-sekreterare@utn.se |
-| Master of club Moebius   | Olle Nilsson | mat-klubb@utn.se       |
-| Master of space Möbius  | Simon Lindblom | mat-lokal@utn.se       |
-| Master of education Moebius  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
-| Master of study social Möbius  | Aamos Ranta | mat-soc@utn.se       |
+| President      | Minoo Sjögren | mat-ordf@utn.se        |
+| Vice President  | Frida Nordahl | mat-vice@utn.se        |
+| Treasurer         | 	Oskar Lutterbeck | mat-kassor@utn.se      |
+| Secretary    | 	Ellen Pelander | mat-sekreterare@utn.se |
+| Master of Club   | Olle Nilsson | mat-klubb@utn.se       |
+| Master of Space  | Simon Lindblom | mat-lokal@utn.se       |
+| Head of Education  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
+| Head of Student Welfare  | Aamos Ranta | mat-soc@utn.se       |
 | **Other positions**            | |         |
 | Möbius Tech            | | mat-tech@utn.se        |
-| Master of sport            | Lukas Rydbom | mat-idrott@utn.se        |
+| Master of Sport            | Lukas Rydbom | mat-idrott@utn.se        |
 |  Master of Labor Market             | Henry Sumpter  | mat-arb@utn.se        |
 |  Master of Internationality              | Vincent Vilanueva  | mat-int@utn.se        |
 

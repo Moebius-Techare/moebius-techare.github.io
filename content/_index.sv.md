@@ -59,14 +59,14 @@ Styrelsen har en mandatperiod på ett år och väljs på vårmötet i mars eller
 
 |Styrelsen                        ||                        |
 |------------------------|-|------------------------|
-| Ordförande Moebius     | Minoo Sjögren | mat-ordf@utn.se        |
-| Vice Ordförande Möbius | Frida Nordahl | mat-vice@utn.se        |
-| Kassör Moebius         | 	Oskar Lutterbeck | mat-kassor@utn.se      |
-| Sekreterare Möbius     | 	Ellen Pelander | mat-sekreterare@utn.se |
-| Klubbmästare Moebius   | Olle Nilsson | mat-klubb@utn.se       |
-| Lokalansvarig Möbius  | Simon Lindblom | mat-lokal@utn.se       |
-| Utbildningsansvarig Moebius  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
-| Studiesocialt ansvarig Möbius  | Aamos Ranta | mat-soc@utn.se       |
+| Ordförande      | Minoo Sjögren | mat-ordf@utn.se        |
+| Vice Ordförande | Frida Nordahl | mat-vice@utn.se        |
+| Kassör          | 	Oskar Lutterbeck | mat-kassor@utn.se      |
+| Sekreterare     | 	Ellen Pelander | mat-sekreterare@utn.se |
+| Klubbmästare   | Olle Nilsson | mat-klubb@utn.se       |
+| Lokalansvarig  | Simon Lindblom | mat-lokal@utn.se       |
+| Utbildningsansvarig  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
+| Studiesocialt ansvarig  | Aamos Ranta | mat-soc@utn.se       |
 |**Andra poster**                        ||                        |
 | Möbius Tech            | | mat-tech@utn.se        |
 | Spårtansvarig            | Lukas Rydbom | mat-idrott@utn.se        |
