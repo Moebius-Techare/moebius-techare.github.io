@@ -43,7 +43,7 @@ Se [länkar](links.sv.md).
 
 [Önskemål till kiosken](https://docs.google.com/forms/d/e/1FAIpQLSfx6-tQL_ONTX-kjNsnxzjoMd8MH3prFYbWhi32qUf2_xG_ew/viewform)
 
-[Gamla tentor (temporär lösning)](https://drive.google.com/drive/folders/1ETstHLmkj21zCpF3egTAo0l-XJjlZQ84?usp=sharing)
+[Gamla tentor](exams)
 
 [Sångboken](/dokument/Sångbok.pdf)
 

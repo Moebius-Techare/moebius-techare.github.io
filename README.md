@@ -1,6 +1,8 @@
 # moebius-techare.github.io
 Moebius hemsida
 
+# Allmänt
+
 Hur fungerar Möbius hemsida?
 
 Jo, allt styrs genom ett program som heter Hugo. Hugo är inte IUPAK:s kamel utan något annat. Nämligen ett program som tar .md-filer (en sådan som du läser just nu) och genererar en html-sida.
@@ -23,3 +25,10 @@ Hoppas detta hjälper dig, du framtida Möbiot
 
 *Sör'n*
 2025
+
+# Lägga till nya tentor / adding new exams
+
+Tentorna ligger i `static/Exams` och sedan en mapp per kurs. Lägg in tentorna där och namnge dem enligt vad andra tentor heter, alltså `Kurs ååmmdd` och `Kurs ååmmdd losn` för lösningar. Sedan är det bara att göra en pull-request och github löser resten.
+
+
+The exams are in `static/Exams`  and then one folder per course. Add the exams there and name them accordingly, i.e. `Course yymmdd` and `Course yymmdd losn` for solutions. The you just do a pull-request and github solves everything automatically.

@@ -42,7 +42,7 @@ See [links](links.en.md).
 
 [Want something for the shop?](https://docs.google.com/forms/d/e/1FAIpQLSfx6-tQL_ONTX-kjNsnxzjoMd8MH3prFYbWhi32qUf2_xG_ew/viewform)
 
-[Old exams (temporary solution)](https://drive.google.com/drive/folders/1ETstHLmkj21zCpF3egTAo0l-XJjlZQ84?usp=sharing)
+[Old exams](exams)
 
 [Songbook](/dokument/Sångbok.pdf)
 
