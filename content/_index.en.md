@@ -41,7 +41,7 @@ The board sits one year at a time and are elected on the spring meeting in March
 | Treasurer         | Emiliano Lievano Parmstrand | mat-kassor@utn.se      |
 | Secretary    | 	Axel Lönnstedt | mat-sekreterare@utn.se |
 | Master of Club   | Vincent Villanueva | mat-klubb@utn.se       |
-| Master of Space  | Signe Löfquist | mat-lokal@utn.se       |
+| Master of Space  | Ellen Hytti | mat-lokal@utn.se       |
 | Head of Education  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
 | Head of Student Welfare  | Minoo Sjögren | mat-soc@utn.se       |
 | **Other positions**            | |         |
