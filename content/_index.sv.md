@@ -43,7 +43,7 @@ Styrelsen har en mandatperiod på ett år och väljs på vårmötet i mars eller
 | Kassör          | 	Emiliano Lievano Parmstrand | mat-kassor@utn.se      |
 | Sekreterare     | 	Axel Lönnstedt | mat-sekreterare@utn.se |
 | Klubbmästare   | Vincent Villanueva | mat-klubb@utn.se       |
-| Lokalansvarig  | Signe Löfquist | mat-lokal@utn.se       |
+| Lokalansvarig  | Ellen Hytti | mat-lokal@utn.se       |
 | Utbildningsansvarig  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
 | Studiesocialt ansvarig  |  Minoo Sjögren | mat-soc@utn.se       |
 |**Andra poster**                        ||                        |
