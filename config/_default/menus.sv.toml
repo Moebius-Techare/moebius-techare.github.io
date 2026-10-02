@@ -22,3 +22,8 @@
   name = 'Donera'
   pageRef = '/donera'
   weight = 70
+
+  [[main]]
+name = 'Guide till matrisen'
+pageRef = '/matrisen'
+weight = 80
