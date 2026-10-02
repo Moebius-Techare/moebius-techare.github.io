@@ -1,24 +1,24 @@
 ## 1 Så du vill ta dig till matrisen?
 Ja då har du kommit rätt! Här har vi skrivit en guide för hur du ska göra för att ta dig in i *matrisen*. När du går in på [https://matrisen.moebius.nu](https://matrisen.moebius.nu/) så kommer du att skickas till [https://app.element.io/#/welcome](https://app.element.io/#/welcome), det är här som du kommer skapa ditt konto! Bör se ut något i den här stilen.
 
-![1](static/Matrisen-sv/1.JPG)
+![1](/static/Matrisen-sv/1.JPG)
 
 ## 2. Klicka på "Skapa konto"
 
 När du har klickat på skapa konto så kommer du se det här:
 
-![](static/Matrisen-sv/2.JPG)
+![](/static/Matrisen-sv/2.JPG)
 
 
 Klicka på ändra, och i punkten "Annan leverantör" fyll i matrisen.moebius.nu och klicka på Fortsätt.
 
-![](static/Matrisen-sv/3.JPG)
+![](/static/Matrisen-sv/3.JPG)
 
 Nu kommer du bli frågad om en registeringstoken. Den finner du i **[ÅTERKALLAT]**!
 
 ## 3. Du är inne!
 
-![](static/Matrisen-sv/4.JPG)
+![](/static/Matrisen-sv/4.JPG)
 
 Klicka på "Fortsätt" i rutan uppe till vänster. Du kommer behöva spara en kod som du kan behöva när du loggar in på nytt igen.
 
