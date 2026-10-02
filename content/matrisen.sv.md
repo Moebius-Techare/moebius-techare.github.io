@@ -1,9 +1,9 @@
-## 1 Så du vill ta dig till matrisen?
+## Så du vill ta dig till matrisen?
 Ja då har du kommit rätt! Här har vi skrivit en guide för hur du ska göra för att ta dig in i *matrisen*. När du går in på [https://matrisen.moebius.nu](https://matrisen.moebius.nu/) så kommer du att skickas till [https://app.element.io/#/welcome](https://app.element.io/#/welcome), det är här som du kommer skapa ditt konto! Bör se ut något i den här stilen.
 
 ![](/Matrisen-sv/1.JPG)
 
-## 2. Klicka på "Skapa konto"
+## Klicka på "Skapa konto"
 
 När du har klickat på skapa konto så kommer du se det här:
 
@@ -21,7 +21,7 @@ Nu kommer du bli frågad om en registeringstoken. Den finner du i **[ÅTERKALLAT
 
 ![](/Matrisen-sv/5.JPG)
 
-## 3. Du är inne!
+## Du är inne!
 
 ![](/Matrisen-sv/6.JPG)
 
@@ -39,7 +39,7 @@ Nu visas din "Återställningsnyckel", spara den någonstans, t.ex. genom att sk
 
 Kopiera eller skriv in koden och klicka på "Slutför inställningen"
 
-## 4. Gå med i matrisen!
+## Gå med i matrisen!
 
 Börja med att kryssa/klicka ja eller nej på alla rutor. Det borde se ut såhär:
 
@@ -51,6 +51,6 @@ Klicka högst uppe till vänster i sökfälltet och klicka på "Offentliga utrym
 
 Grattis! Du är med i **Moebius Matrisen**! Här kan du gå med i rum (som kanaler i Discord). Rekommenderar att du börjar med att gå med i hallen och tar av dig skorna först!
 
-## 5. På mobilen:
+## På mobilen:
 
 Det går även att ansluta genom mobilen, men för att skapa sitt konto så behöver man göra som i guiden. När kontot är skapat så kan man ladda ner exempelvis Element X och logga in på sitt matrisen.moebius.nu konto. Om du får felmeddelande, kontrollera så att du inte försöker logga in på matrix.org, annars kontakta Tech!
