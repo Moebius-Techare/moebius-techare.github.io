@@ -1,7 +1,7 @@
 ## 1 Så du vill ta dig till matrisen?
 Ja då har du kommit rätt! Här har vi skrivit en guide för hur du ska göra för att ta dig in i *matrisen*. När du går in på [https://matrisen.moebius.nu](https://matrisen.moebius.nu/) så kommer du att skickas till [https://app.element.io/#/welcome](https://app.element.io/#/welcome), det är här som du kommer skapa ditt konto! Bör se ut något i den här stilen.
 
-![](/static/Matrisen-sv/1.JPG)
+![](/Matrisen-sv/1.JPG)
 
 ## 2. Klicka på "Skapa konto"
 
