@@ -13,7 +13,7 @@ Klicka på ändra, och i punkten "Annan leverantör" fyll i matrisen.moebius.nu 
 
 
 
-Nu kommer du bli frågad om en registeringstoken. Den finner du i [ÅTERKALLAT]!
+Nu kommer du bli frågad om en registeringstoken. Den finner du i **[ÅTERKALLAT]**!
 
 ## 3. Du är inne!
 
