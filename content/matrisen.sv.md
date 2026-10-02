@@ -45,3 +45,7 @@ Klicka högst uppe till vänster i sökfälltet och klicka på "Offentliga utrym
 ![](/static/Matrisen-sv/9.JPG)
 
 Grattis! Du är med i **Moebius Matrisen**! Här kan du gå med i rum (som kanaler i Discord). Rekommenderar att du börjar med att gå med i hallen och tar av dig skorna först!
+
+## 5. På mobilen:
+
+Det går även att ansluta genom mobilen, men för att skapa sitt konto så behöver man göra som i guiden. När kontot är skapat så kan man ladda ner exempelvis Element X och logga in på sitt matrisen.moebius.nu konto. Om du får felmeddelande, kontrollera så att du inte försöker logga in på matrix.org, annars kontakta Tech!
