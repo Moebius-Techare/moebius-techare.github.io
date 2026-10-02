@@ -9,8 +9,6 @@ När du har klickat på skapa konto så kommer du se det här:
 
 ![](/Matrisen-sv/2.JPG)
 
-
-
 Klicka på ändra, och i punkten "Annan leverantör" fyll i matrisen.moebius.nu och klicka på Fortsätt.
 
 ![](/Matrisen-sv/3.JPG)
