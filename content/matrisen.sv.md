@@ -41,15 +41,21 @@ Kopiera eller skriv in koden och klicka på "Slutför inställningen"
 
 ## Gå med i matrisen!
 
-Börja med att kryssa/klicka ja eller nej på alla rutor. Det borde se ut såhär:
+Börja med att kryssa/klicka ja eller nej på alla rutor och klicka sedan högst uppe till vänster i sökrutan:
 
 ![](/Matrisen-sv/10.JPG)
 
-Klicka högst uppe till vänster i sökfälltet och klicka på "Offentliga utrymmen". Om "Moebius Matrisen" inte står högst upp så är det bara att söka på den.
+Nu klickar du på "Offentliga utrymmen". Om "Moebius Matrisen" inte står högst upp så är det bara att söka på den.
 
 ![](/Matrisen-sv/11.JPG)
 
+**GÅ MED!!**
+
+![](/Matrisen-sv/12.JPG)
+
 Grattis! Du är med i **Moebius Matrisen**! Här kan du gå med i rum (som kanaler i Discord). Rekommenderar att du börjar med att gå med i hallen och tar av dig skorna först!
+
+![](/Matrisen-sv/13.JPG)
 
 ## På mobilen:
 
