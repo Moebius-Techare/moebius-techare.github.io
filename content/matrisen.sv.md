@@ -13,23 +13,29 @@ Klicka på ändra, och i punkten "Annan leverantör" fyll i matrisen.moebius.nu 
 
 ![](/Matrisen-sv/3.JPG)
 
-Nu kommer du bli frågad om en registeringstoken. Den finner du i **[ÅTERKALLAT]**!
-
-## 3. Du är inne!
+Skriv in ett namn och lösenord. Namnet går att ändra senare.
 
 ![](/Matrisen-sv/4.JPG)
 
-Klicka på "Fortsätt" i rutan uppe till vänster. Du kommer behöva spara en kod som du kan behöva när du loggar in på nytt igen.
+Nu kommer du bli frågad om en registeringstoken. Den finner du i **[ÅTERKALLAT]**!
 
 ![](/Matrisen-sv/5.JPG)
 
-Klicka på "Konfiguera säkerhetskopiering" och klicka "Fortsätt".
+## 3. Du är inne!
 
 ![](/Matrisen-sv/6.JPG)
 
-Nu visas din "Återställningsnyckel", spara den någonstans, t.ex. genom att skicka den i ett mejl till sig själv. Klicka sedan på nästa.
+Klicka på "Fortsätt" i rutan uppe till vänster. Du kommer behöva spara en kod som du kan behöva när du loggar in på nytt igen.
 
 ![](/Matrisen-sv/7.JPG)
+
+Klicka på "Konfiguera säkerhetskopiering" och klicka "Fortsätt".
+
+![](/Matrisen-sv/8.JPG)
+
+Nu visas din "Återställningsnyckel", spara den någonstans, t.ex. genom att skicka den i ett mejl till sig själv. Klicka sedan på nästa.
+
+![](/Matrisen-sv/9.JPG)
 
 Kopiera eller skriv in koden och klicka på "Slutför inställningen"
 
@@ -37,11 +43,11 @@ Kopiera eller skriv in koden och klicka på "Slutför inställningen"
 
 Börja med att kryssa/klicka ja eller nej på alla rutor. Det borde se ut såhär:
 
-![](/Matrisen-sv/8.JPG)
+![](/Matrisen-sv/10.JPG)
 
 Klicka högst uppe till vänster i sökfälltet och klicka på "Offentliga utrymmen". Om "Moebius Matrisen" inte står högst upp så är det bara att söka på den.
 
-![](/Matrisen-sv/9.JPG)
+![](/Matrisen-sv/11.JPG)
 
 Grattis! Du är med i **Moebius Matrisen**! Här kan du gå med i rum (som kanaler i Discord). Rekommenderar att du börjar med att gå med i hallen och tar av dig skorna först!
 
