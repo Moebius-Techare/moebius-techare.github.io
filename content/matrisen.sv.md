@@ -31,7 +31,7 @@ Klicka på "Konfiguera säkerhetskopiering" och klicka "Fortsätt".
 
 Nu visas din "Återställningsnyckel", spara den någonstans, t.ex. genom att skicka den i ett mejl till sig själv. Klicka sedan på nästa.
 
-!![](static/Matrisen-sv/6.JPG)
+![](static/Matrisen-sv/6.JPG)
 
 Kopiera eller skriv in koden och klicka på "Slutför inställningen"
 
