@@ -22,7 +22,7 @@
   pageRef = '/donera'
   weight = 70
 
-[[main]]
-name = 'Guide to the matrix'
-pageRef = '/matrisen'
-weight = 80
+#[[main]]
+#name = 'Guide to the matrix'
+#pageRef = '/matrisen'
+#weight = 80
